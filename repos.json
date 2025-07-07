@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "miku-KernelSU",
-      "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
-      "branch": "TDA",
-      "device": "odin"
+      "name": "STARX+-KernelSU",
+      "repo": "https://github.com/chmbrlaintjoa/KERNEL_RMX2195-2101",
+      "branch": "lineage-18.1",
+      "device": "RMX2101"
     },
     "withKernelSU": true,
     "toolchains": [
